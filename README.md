@@ -1,6 +1,9 @@
 # Dashboard HR Employees Performance and Attrition
 https://public.tableau.com/views/HREmployeesAttritionDashboard_17334738376160/Peopleanalyticsdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+![People analytics dashboard](https://github.com/user-attachments/assets/aafe6fca-4e3b-4a5a-a898-99eea50f58c0)
+
+
 source from : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
 ## Description
